@@ -1,11 +1,4 @@
-# config.yaml
-
 embedding_model: all-MiniLM-L6-v2
-ann_index_type: hnswlib  # or faiss
 vector_store_path: data/embeddings/index.hnsw
-chunk_size: 500
-chunk_overlap: 50
-llm:
-  provider: ollama  # local
-  model_name: llama3
-  temperature: 0.2
+chunk_size: 100
+chunk_overlap: 20
