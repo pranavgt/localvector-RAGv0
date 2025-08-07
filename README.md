@@ -5,6 +5,8 @@ It combines local embeddings, a high-performance vector store, and lightweight l
 
 ---
 
+![Overview Diagram](assets/localvector-overview.png)
+---
 ## Why LocalVector?
 
 Modern enterprises want smart AI search and question-answering over their private data — **but can’t send sensitive documents to public clouds**.  
