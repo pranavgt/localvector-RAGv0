@@ -5,7 +5,8 @@ It combines local embeddings, a high-performance vector store, and lightweight l
 
 ---
 
-![Overview Diagram](assets/localvector-overview.png)
+<img src="assets/localvector-overview.png" width="80%" />
+
 ---
 ## Why LocalVector?
 
